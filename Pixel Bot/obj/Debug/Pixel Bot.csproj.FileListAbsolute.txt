@@ -1,0 +1,47 @@
+C:\Users\GioLGA\Desktop\Csharp\Pixel Bot\Pixel Bot\bin\Debug\Pixel Bot.exe.config
+C:\Users\GioLGA\Desktop\Csharp\Pixel Bot\Pixel Bot\bin\Debug\Pixel Bot.exe
+C:\Users\GioLGA\Desktop\Csharp\Pixel Bot\Pixel Bot\bin\Debug\Pixel Bot.pdb
+C:\Users\GioLGA\Desktop\Csharp\Pixel Bot\Pixel Bot\obj\Debug\Pixel Bot.csproj.AssemblyReference.cache
+C:\Users\GioLGA\Desktop\Csharp\Pixel Bot\Pixel Bot\obj\Debug\Pixel Bot.csproj.SuggestedBindingRedirects.cache
+C:\Users\GioLGA\Desktop\Csharp\Pixel Bot\Pixel Bot\obj\Debug\MainWindow.g.cs
+C:\Users\GioLGA\Desktop\Csharp\Pixel Bot\Pixel Bot\obj\Debug\App.g.cs
+C:\Users\GioLGA\Desktop\Csharp\Pixel Bot\Pixel Bot\obj\Debug\Pixel Bot_MarkupCompile.cache
+C:\Users\GioLGA\Desktop\Csharp\Pixel Bot\Pixel Bot\obj\Debug\Pixel Bot_MarkupCompile.lref
+C:\Users\GioLGA\Desktop\Csharp\Pixel Bot\Pixel Bot\obj\Debug\MainWindow.baml
+C:\Users\GioLGA\Desktop\Csharp\Pixel Bot\Pixel Bot\obj\Debug\Pixel Bot.g.resources
+C:\Users\GioLGA\Desktop\Csharp\Pixel Bot\Pixel Bot\obj\Debug\Pixel_Bot.Properties.Resources.resources
+C:\Users\GioLGA\Desktop\Csharp\Pixel Bot\Pixel Bot\obj\Debug\Pixel Bot.csproj.GenerateResource.cache
+C:\Users\GioLGA\Desktop\Csharp\Pixel Bot\Pixel Bot\obj\Debug\Pixel Bot.csproj.CoreCompileInputs.cache
+C:\Users\GioLGA\Desktop\Csharp\Pixel Bot\Pixel Bot\obj\Debug\Pixel Bot.exe
+C:\Users\GioLGA\Desktop\Csharp\Pixel Bot\Pixel Bot\obj\Debug\Pixel Bot.pdb
+C:\Users\GioLGA\Desktop\Csharp\MyProjects\Pixel Bot\Pixel Bot\bin\Debug\Pixel Bot.exe.config
+C:\Users\GioLGA\Desktop\Csharp\MyProjects\Pixel Bot\Pixel Bot\bin\Debug\Pixel Bot.exe
+C:\Users\GioLGA\Desktop\Csharp\MyProjects\Pixel Bot\Pixel Bot\bin\Debug\Pixel Bot.pdb
+C:\Users\GioLGA\Desktop\Csharp\MyProjects\Pixel Bot\Pixel Bot\obj\Debug\Pixel Bot.csproj.AssemblyReference.cache
+C:\Users\GioLGA\Desktop\Csharp\MyProjects\Pixel Bot\Pixel Bot\obj\Debug\Pixel Bot.csproj.SuggestedBindingRedirects.cache
+C:\Users\GioLGA\Desktop\Csharp\MyProjects\Pixel Bot\Pixel Bot\obj\Debug\MainWindow.g.cs
+C:\Users\GioLGA\Desktop\Csharp\MyProjects\Pixel Bot\Pixel Bot\obj\Debug\App.g.cs
+C:\Users\GioLGA\Desktop\Csharp\MyProjects\Pixel Bot\Pixel Bot\obj\Debug\Pixel Bot_MarkupCompile.cache
+C:\Users\GioLGA\Desktop\Csharp\MyProjects\Pixel Bot\Pixel Bot\obj\Debug\Pixel Bot_MarkupCompile.lref
+C:\Users\GioLGA\Desktop\Csharp\MyProjects\Pixel Bot\Pixel Bot\obj\Debug\MainWindow.baml
+C:\Users\GioLGA\Desktop\Csharp\MyProjects\Pixel Bot\Pixel Bot\obj\Debug\Pixel Bot.g.resources
+C:\Users\GioLGA\Desktop\Csharp\MyProjects\Pixel Bot\Pixel Bot\obj\Debug\Pixel_Bot.Properties.Resources.resources
+C:\Users\GioLGA\Desktop\Csharp\MyProjects\Pixel Bot\Pixel Bot\obj\Debug\Pixel Bot.csproj.GenerateResource.cache
+C:\Users\GioLGA\Desktop\Csharp\MyProjects\Pixel Bot\Pixel Bot\obj\Debug\Pixel Bot.csproj.CoreCompileInputs.cache
+C:\Users\GioLGA\Desktop\Csharp\MyProjects\Pixel Bot\Pixel Bot\obj\Debug\Pixel Bot.exe
+C:\Users\GioLGA\Desktop\Csharp\MyProjects\Pixel Bot\Pixel Bot\obj\Debug\Pixel Bot.pdb
+C:\Users\GioLGA\Desktop\MyProjects\Pixel Bot\Pixel Bot\bin\Debug\Pixel Bot.exe.config
+C:\Users\GioLGA\Desktop\MyProjects\Pixel Bot\Pixel Bot\bin\Debug\Pixel Bot.exe
+C:\Users\GioLGA\Desktop\MyProjects\Pixel Bot\Pixel Bot\bin\Debug\Pixel Bot.pdb
+C:\Users\GioLGA\Desktop\MyProjects\Pixel Bot\Pixel Bot\obj\Debug\Pixel Bot.csproj.AssemblyReference.cache
+C:\Users\GioLGA\Desktop\MyProjects\Pixel Bot\Pixel Bot\obj\Debug\MainWindow.g.cs
+C:\Users\GioLGA\Desktop\MyProjects\Pixel Bot\Pixel Bot\obj\Debug\App.g.cs
+C:\Users\GioLGA\Desktop\MyProjects\Pixel Bot\Pixel Bot\obj\Debug\Pixel Bot_MarkupCompile.cache
+C:\Users\GioLGA\Desktop\MyProjects\Pixel Bot\Pixel Bot\obj\Debug\Pixel Bot_MarkupCompile.lref
+C:\Users\GioLGA\Desktop\MyProjects\Pixel Bot\Pixel Bot\obj\Debug\MainWindow.baml
+C:\Users\GioLGA\Desktop\MyProjects\Pixel Bot\Pixel Bot\obj\Debug\Pixel Bot.g.resources
+C:\Users\GioLGA\Desktop\MyProjects\Pixel Bot\Pixel Bot\obj\Debug\Pixel_Bot.Properties.Resources.resources
+C:\Users\GioLGA\Desktop\MyProjects\Pixel Bot\Pixel Bot\obj\Debug\Pixel Bot.csproj.GenerateResource.cache
+C:\Users\GioLGA\Desktop\MyProjects\Pixel Bot\Pixel Bot\obj\Debug\Pixel Bot.csproj.CoreCompileInputs.cache
+C:\Users\GioLGA\Desktop\MyProjects\Pixel Bot\Pixel Bot\obj\Debug\Pixel Bot.exe
+C:\Users\GioLGA\Desktop\MyProjects\Pixel Bot\Pixel Bot\obj\Debug\Pixel Bot.pdb
